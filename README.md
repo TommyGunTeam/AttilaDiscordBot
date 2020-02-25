@@ -12,4 +12,16 @@
 
 
 [Thomas](t.me/tesla33IO)
+
+
 [Morris](t.me/Koshuhkov)
+
+
+
+
+### COMMANDS
+
+> |||||||||||||||||||||||||||||||
+
+
+`help` - this message show short list of commands
